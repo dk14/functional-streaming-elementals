@@ -1,4 +1,0 @@
-import scalaz._, Scalaz._
-import scalaz.concurrent._
-import scalaz.stream._
-import scalaz.stream.io._
